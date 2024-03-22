@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=ebSAb-ERqAM&t=934s
+
 # three-tier-eks-iac
 
 # Prerequisite 
